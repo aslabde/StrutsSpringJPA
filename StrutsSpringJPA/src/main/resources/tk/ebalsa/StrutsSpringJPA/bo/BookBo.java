@@ -1,4 +1,4 @@
-package tk.ebalsa.StrutsSpringJPA.Bo;
+package tk.ebalsa.StrutsSpringJPA.bo;
 
 import java.util.List;
 

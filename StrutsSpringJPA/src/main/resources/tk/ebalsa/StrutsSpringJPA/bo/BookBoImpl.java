@@ -1,4 +1,4 @@
-import tk.ebalsa.StrutsSpringJPA.Bo;
+import tk.ebalsa.StrutsSpringJPA.bo;
 import tk.ebalsa.StrutsSpringJPA.persistence.BookRepository;
 
 public class BookBoImpl implements BookBo {
